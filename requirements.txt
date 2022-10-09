@@ -1,0 +1,11 @@
+Flask
+gunicorn
+filelock
+importlib-metadata<2
+numpy
+sklearn
+pandas
+PyYAML
+matplotlib
+evidently
+dill
